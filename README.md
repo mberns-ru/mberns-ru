@@ -7,9 +7,7 @@
 
 <p align="center">
   <a href="https://mberns-ru.github.io"><img src="https://img.shields.io/badge/Portfolio-mberns--ru.github.io-6f42c1?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/mpberns"><img src="https://img.shields.io/badge/LinkedIn-mpberns-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:madelinepberns@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+  <a href="https://www.linkedin.com/in/mpberns"><img src="https://img.shields.io/badge/LinkedIn-mpberns-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a></p>
 
 ---
 
